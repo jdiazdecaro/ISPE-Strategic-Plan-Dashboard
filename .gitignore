@@ -1,0 +1,6 @@
+# Only track dashboard files
+*
+!index.html
+!newlogo.jpg
+!.gitignore
+!ISPE_Strategic_Plan_Dashboard.html
